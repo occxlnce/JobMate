@@ -24,13 +24,6 @@ JobMate AI is a comprehensive AI-powered career platform designed to help job se
 - Preview and download generated cover letters
 - Clean, professional formatting with proper business letter structure
 
-### Learning Resources Integration - Skill Roadmap
-- Browse and track learning resources based on your skills
-- Resources organized by difficulty: Beginner, Intermediate, Advanced
-- Track your learning progress with visual indicators
-- Add custom learning resources for any skill
-- Progress tracking and learning statistics dashboard
-
 ### Interview Coach
 - AI-powered interview preparation tool with voice capabilities
 - Text and voice-based question answering options
@@ -40,14 +33,6 @@ JobMate AI is a comprehensive AI-powered career platform designed to help job se
 - Practice mock interview sessions with real-time AI feedback
 - Detailed performance analysis with scores and improvement suggestions
 - Interview history tracking with comprehensive session review
-- Strength and weakness identification for targeted improvement
-
-### WhatsApp Job Alerts
-- Receive personalized job alerts directly on WhatsApp
-- Customizable alert preferences (keywords, locations, salary)
-- Configure alert frequency (daily, weekly, immediate)
-- Seamless setup with QR code scanning for WhatsApp connection
-- Filter job notifications based on user preferences
 
 ### Profile Management
 - Comprehensive user profile with personal information, skills, education, and experience
@@ -92,13 +77,6 @@ Ensure you have the following environment variables set up in your Supabase proj
 4. Generate your personalized cover letter
 5. Preview, edit, and download
 
-### Using the Learning Resources
-1. Go to the Learning Resources page
-2. Browse resources by skill or difficulty level
-3. Mark resources as completed as you learn
-4. Track your progress with visual indicators
-5. Add custom learning resources for your skills
-
 ### Interview Practice
 1. Go to the Interview Coach page
 2. Choose the "Practice Interview" tab
@@ -109,12 +87,6 @@ Ensure you have the following environment variables set up in your Supabase proj
 7. Review your scores and suggested improvements
 8. Track your progress in the "Interview History" tab
 
-### WhatsApp Job Alerts
-1. Go to the WhatsApp Alerts page
-2. Enter your WhatsApp number and set job preferences
-3. Choose notification frequency (daily, weekly, immediate)
-4. Connect WhatsApp by scanning the QR code
-5. Receive personalized job alerts directly on WhatsApp
 
 ### Using the AI Assistant
 1. Click the chat icon visible on all pages
